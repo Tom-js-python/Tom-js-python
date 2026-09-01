@@ -1,37 +1,65 @@
-## Hi there 👋
+# Hi, I'm Tom 👋
 
-I’m **Tom** — a passionate developer and creative writer with a diverse background in physics, public administration, and web development. My journey combines a love for technology with a deep interest in storytelling, all while striving to make a positive impact in the world.
+I'm a **Python & JavaScript developer** building data-driven web applications with **FastAPI, PostgreSQL, Vue.js, and TypeScript**.
 
-## 🚀 What I’m Working On
+My background spans physics, public administration, and web development, and I'm particularly interested in using software to explore complex real-world data and build useful, understandable tools.
 
-- 🌱 **Learning**: Data Science and Machine Learning with Python.
-- 💻 **Developing**: A web application using Vue.js and Python for data analysis.
-- ✍️ **Writing**: A fantasy novel set in a mythical empire, blending magic and reality.
+## 🚀 Featured Project
 
-## 🛠️ Skills and Expertise
+### 🇨🇦 Election Insight Canada
 
-- **Programming Languages**: Python, JavaScript, TypeScript, MATLAB, HTML/CSS
-- **Frameworks**: Vue.js, Express, Tailwind CSS
-- **Tools**: Git, GitHub, Jupyter Notebook, Excel (VBA, Pivot Tables)
-- **Creative**: Fantasy writing, Short Stories
+I'm currently building **Election Insight Canada**, a data-driven web application for exploring Canadian federal election results.
+
+The project currently includes:
+
+* A normalized **PostgreSQL** database built from official Elections Canada data
+* Python data-ingestion tools for processing and loading election datasets
+* A **FastAPI REST API** for querying riding and candidate results
+* Analytical SQL for identifying close and swing ridings
+* Structured API response models using **Pydantic**
+* Automated backend testing with **pytest**
+* A **Vue 3 / TypeScript** frontend currently in development
+
+Future phases will add interactive election visualizations, historical election comparisons, and polling-based seat projections.
+
+➡️ **[Explore Election Insight Canada](https://github.com/Tom-js-python/election-insight-canada)**
+
+## 🛠️ Technical Skills
+
+* **Languages:** Python, JavaScript, TypeScript, SQL, HTML/CSS, MATLAB
+* **Backend:** FastAPI, Node.js, Express, REST APIs, Pydantic
+* **Frontend:** Vue.js, Tailwind CSS; familiarity with React and Redux
+* **Data & Databases:** PostgreSQL, relational database design, Jupyter Notebook
+* **Testing & Tools:** pytest, Git, GitHub, Linux
 
 ## 🎓 Background
 
-- **Education**: BSc in Physics, MA in Public Administration, and a diploma in Web Development
+* **BSc in Physics**
+* **MA in Public Administration**
+* **Diploma in Web Development**
 
-## 🤝 Looking to Collaborate On
+My background in physics first introduced me to programming and computational problem-solving, while my work and studies in public administration developed my interest in using data to understand complex social and policy questions.
 
-- Open-source projects that align with my goal to use technology for positive change.
+I'm now focused on bringing those interests together through software development.
 
-## 🌱 Currently Learning More About
+## 🌱 Currently Exploring
 
-- Data Science, Machine Learning, and advanced algorithms.
+I'm continuing to deepen my knowledge of backend development, database design, algorithms, and modern full-stack development while building practical projects.
 
-## 📫 How to Reach Me
+## 🤝 Collaboration
 
-- **Email**: [tomrembrown@proton.me](mailto:tomrembrown@proton.me)
+I'm interested in open-source and collaborative projects that use technology to solve meaningful real-world problems.
 
-## 🔭 A Little More About Me
+## ✍️ Beyond Coding
 
-- 🐱 **Pet Lover**: I have two adorable cats who keep me company during late-night coding sessions.
-- 🌍 **Dream**: My ultimate goal is to understand the universe and make the world a better place.
+I'm also a creative writer currently working on a fantasy novel. I enjoy exploring the intersection of science, technology, storytelling, and some of the bigger questions about how the world works.
+
+And when I'm not coding or writing, I'm often accompanied by my two cats. 🐱
+
+## 📫 Contact
+
+**Email:** [tomrembrown@proton.me](mailto:tomrembrown@proton.me)
+
+---
+
+*Trying to understand the universe and leave a small part of it better than I found it.*
